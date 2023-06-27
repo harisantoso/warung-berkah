@@ -15,7 +15,7 @@ https://swiperjs.com/
 *CATATAN
 
 
-*GIT 
+*COLNING GIT DARI LOCAL/PC KE GITHUB WEB
 
 $ git remote add origin https://___________.git
 
