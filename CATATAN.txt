@@ -1,0 +1,97 @@
+
+
+start 27-5-2023
+selesai 14-6-2023
+
+#tool yg digunakan
+font awesome cmd link
+https://cdnjs.com/
+
+https://fonts.google.com/?query=nunito
+
+swiper 
+https://swiperjs.com/
+
+*CATATAN
+
+
+*GIT 
+
+$ git remote add origin https://___________.git
+
+$ git remote -v
+origin  https://___________ (fetch)
+origin  https://___________ (push)
+
+$ git status
+On branch main
+
+$ git remote
+origin
+
+bembuat alias
+alias graph="git log --all --decorate --oneline --graph"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr. Web Desigen
+Grocery Store Website Design Using HTML CSS JavaScript
