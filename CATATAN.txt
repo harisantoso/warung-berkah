@@ -1,7 +1,7 @@
 
 
 start 27-5-2023
-selesai --
+selesai menit 22
 
 #tool yg digunakan
 font awesome cmd link
@@ -32,8 +32,8 @@ origin
 bembuat alias
 alias graph="git log --all --decorate --oneline --graph"
 
-
-
+memasukan github local ke github
+git push -u origin main
 
 
 
