@@ -1,7 +1,7 @@
 
 
 start 27-5-2023
-selesai menit 33.11
+selesai menit 38.38
 
 #tool yg digunakan
 font awesome cmd link
