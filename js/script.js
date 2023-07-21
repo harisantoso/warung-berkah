@@ -44,9 +44,25 @@ window.onscroll = () =>{
   navbar.classList.remove('active');
 }
 
-
-
-
-
-
-
+// <!-- products section starts  -->
+let swiper = new Swiper(".product-slider", {
+  loop: false,
+  spaceBetween: 20,
+  autoplay: {
+    delay: 7500,
+    disableOnInteraction: false,
+  },
+  centerdSlides: true,
+  breakpoints: {
+    0: {
+      slidesPerView: 1,
+    },
+    768: {
+      slidesPerView: 2,
+    },
+    1020: {
+      slidesPerView: 3,
+    },
+  },
+});
+// <!-- products section ends  -->
