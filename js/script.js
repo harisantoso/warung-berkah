@@ -44,7 +44,7 @@ window.onscroll = () =>{
   navbar.classList.remove('active');
 }
 
-// products section starts 
+// products & review section starts 
 var swiper = new Swiper(".product-slider, .review-slider",{
   loop: false,
   spaceBetween: 20,
