@@ -1,7 +1,7 @@
 
 
 start 27-5-2023
-selesai menit 50.00
+selesai jam 1.4
 
 #tool yg digunakan
 font awesome cmd link
@@ -13,6 +13,7 @@ swiper
 https://swiperjs.com/
 
 *CATATAN
+tidak ada garis pembatas pada section blots
 
 
 *COLNING GIT DARI LOCAL/PC KE GITHUB WEB
