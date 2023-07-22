@@ -392,20 +392,6 @@ section {
   padding: 5rem 0;
 }
 
-/* media queries  */
-@media (max-width:991px) {
-  html {
-    font-size: 55%;
-  }
-
-  .header {
-    padding: 2rem;
-  }
-
-  section {
-    padding: 2rem;
-  }
-}
 
 /* categories section starts  */
 .categories .box-container {
@@ -657,6 +643,22 @@ section {
 }
 
 /* credit section end */
+
+
+/* media queries  */
+@media (max-width:991px) {
+  html {
+    font-size: 55%;
+  }
+
+  .header {
+    padding: 2rem;
+  }
+
+  section {
+    padding: 2rem;
+  }
+}
 
 @media (max-width:768px) {
 
