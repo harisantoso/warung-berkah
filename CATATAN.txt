@@ -1,7 +1,7 @@
 
 
-start 27-5-2023
-selesai jam 1.4
+start 27-5-23
+selesai 22-7-23
 
 #tool yg digunakan
 font awesome cmd link
